@@ -1,0 +1,9 @@
+{
+  "name": "k2-space-age",
+  "version": "0.1.0",
+  "title": "Krastorio 2 Air Purification for Space Age",
+  "author": "Pannoniae, raiguard",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0"],
+  "description": "This mod adds the Krastorio 2 air purification/filtering functionality for Factorio 2.0 Space Age."
+}
